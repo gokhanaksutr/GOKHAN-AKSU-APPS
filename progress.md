@@ -15,6 +15,13 @@
 - Configured Next.js for GitHub Pages static export
 - Built the project for static export
 - Removed unnecessary deployment files
+- Deleted the rankora-website folder
+- Created basic HTML website structure
+- Created index.html with home content
+- Created privacy.html
+- Created terms.html
+- Added CSS for basic styling
+- Tested the basic website locally
 
 ## Final Status
-The website is fully functional and ready for GitHub Pages deployment. Static files are generated in the out/ folder.
+Basic HTML website created with home, privacy, and terms pages in repo root. Ready for GitHub Pages deployment.
